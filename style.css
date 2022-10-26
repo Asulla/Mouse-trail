@@ -1,0 +1,19 @@
+body {
+  background-color: #000000;
+  color: #6FC0FD;
+}  
+
+h1 {
+    text-align: center;
+    margin: 250px;
+    font: 25pt monospace;
+}
+    
+.trail{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background: #BB4DE0FA;
+    position:fixed;
+    transform: translate(-50%,-50%); 
+}
